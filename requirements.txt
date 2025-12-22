@@ -6,9 +6,9 @@ django-cors-headers
 django-filter
 pillow
 requests
-torch
 transformers
 accelerate
 sentencepiece
 python-dotenv
 groq
+gunicorn
