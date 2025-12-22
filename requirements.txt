@@ -8,7 +8,8 @@ pillow
 requests
 transformers
 accelerate
-sentencepiece
+torch
+sentence-transformers
 python-dotenv
 groq
 gunicorn
