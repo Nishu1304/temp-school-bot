@@ -1,0 +1,11 @@
+{
+  "name": "test_template",
+  "language": "en",
+  "body": {
+    "variables": {
+    }
+  },
+  "buttons": [
+    { "type": "quick_reply", "text": "Thank you" }
+  ]
+}

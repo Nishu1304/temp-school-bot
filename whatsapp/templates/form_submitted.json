@@ -1,0 +1,15 @@
+{
+  "name": "form_submitted",
+  "language": "en",
+  "header": {
+    "type": "text",
+    "text": "Admission Query"
+  },
+  "body": {
+    "variables": {
+      "1": "Name",
+      "2": "Phone"
+    }
+  },
+  "buttons": []
+}

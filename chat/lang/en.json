@@ -1,0 +1,89 @@
+{
+  "main_menu": "🏫 *SchoolBot — Main Menu*\nYou're viewing: *{student_name}* ({class_sec})\n\n1️⃣ Attendance 📅\n2️⃣ Fees 💰\n3️⃣ Marks 🧮\n4️⃣ Exams 📘\n5️⃣ Library 📚\n6️⃣ Notices 📢\n\n💡 Shortcuts: *today*, *fees*, *marks*, *report*, *switch*, *language*, *help*\nType a number (1–6) or a shortcut.",
+  "attendance_menu": "📅 *Attendance Menu*\n1️⃣ Today’s Attendance\n2️⃣ This Month’s Attendance\n3️⃣ Overall Percentage\n\nType a number (1–3) or *menu* to go back.",
+  "fees_menu": "💰 *Fees Menu*\n1️⃣ Fee Summary\n2️⃣ Paid Fees\n3️⃣ Pending Fees\n\nType a number (1–3) or *menu* to go back.",
+  "marks_menu": "🧮 *Marks Menu*\n1️⃣ Recent Marks\n2️⃣ Subject-wise Average\n3️⃣ Overall Performance\n\nType a number (1–3) or *menu* to go back.",
+  "exams_menu": "📘 *Exams Menu*\n1️⃣ Upcoming Exams\n2️⃣ Ongoing Exams\n3️⃣ Completed Exams\n\nType a number (1–3) or *menu* to go back.",
+  "library_menu": "📚 *Library Menu*\n1️⃣ Issued Books\n2️⃣ Overdue Books\n3️⃣ Summary\n\nType a number (1–3) or *menu* to go back.",
+  "notices_menu": "📢 *Notices Menu*\n1️⃣ View Recent Notices\n\nType a number or *menu* to go back.",
+
+  "student_select": "👨‍👩‍👧 Please choose the student:\n{students}\nReply with a number.",
+  "language_switch_prompt": "🌍 Please type *English* or *Hindi* to change your language.",
+  "language_switched": "✅ Language changed to English.",
+  "change_language_footer": "🌍 Type *language* to change between English / Hindi.",
+  "invalid_option": "⚠️ Invalid option. Type *menu* to go back.",
+  "no_data": "ℹ️ No data found for this section.",
+
+  "attendance_today_title": "📅 *Today's Attendance*",
+  "attendance_month_title": "📆 *This Month's Attendance*",
+  "attendance_overall_title": "📊 *Overall Attendance*",
+  "attendance_no_data": "ℹ️ No attendance records found.",
+  "select_student_first": "⚠️ Please select a student first.",
+    "child_label": "Child",
+    "status_label": "Status",
+    "remark_label": "Remark",
+    "present_label": "Present",
+    "percentage_label": "Percentage",
+    "attendance_present_msg": "✅ Present!",
+    "attendance_absent_msg": "❌ Absent today — please check with your child.",
+    "attendance_encourage_excellent": "🌟 Excellent consistency!",
+    "attendance_encourage_good": "💪 Doing well, keep it up!",
+    "attendance_encourage_ok": "🙂 Good, try for full attendance next month!",
+    "attendance_encourage_poor": "⚠️ Needs better attendance. Let’s aim higher!",
+  
+  "fees_summary_title": "💰 *Fee Summary*",
+  "fees_paid_title": "✅ *Payment Details*",
+  "fees_due_title": "⚠️ *Pending Fees*",
+  "fees_no_data": "ℹ️ No fee record found.",
+  "total_label": "Total",
+    "paid_label": "Paid",
+    "due_label": "Due",
+    "pending_label": "Pending",
+    "due_date_label": "Due Date",
+
+
+  
+  "marks_recent_title": "📘 *Recent Marks*",
+  "marks_subjectwise_title": "📚 *Subject Averages*",
+  "marks_overall_title": "📊 *Overall Marks Summary*",
+  "marks_no_data": "ℹ️ No marks data found.",
+
+  "exams_upcoming_title": "🗓️ *Upcoming Exams*",
+  "exams_ongoing_title": "⏳ *Ongoing Exams*",
+  "exams_completed_title": "✅ *Completed Exams*",
+  "exams_no_data": "ℹ️ No exam schedule found.",
+  "marks_encourage_excellent": "🏆 Excellent performance!",
+    "marks_encourage_good": "🎯 Doing great — keep up the effort!",
+    "marks_encourage_average": "🙂 Good progress, more consistency will help.",
+    "marks_encourage_poor": "⚠️ Needs focus and support. Let’s work together!",
+
+
+
+    "average_label": "Avg",
+    "overall_avg_label": "Overall Avg:",
+    "total_marks_label": "Total Marks",
+
+
+  "library_issued_title": "📚 *Issued Books*",
+  "library_due_title": "⚠️ *Overdue Books*",
+  "library_summary_title": "📖 *Library Summary*",
+  "library_no_data": "ℹ️ No library records found.",
+"library_no_active_books": "🎉 No active issued books.",
+"library_no_due_books": "🎉 No overdue books for {name}!",
+"library_total_issued": "Total Issued",
+"library_currently_borrowed": "Currently Borrowed",
+
+
+  "notices_recent": "📢 *Recent Notices*",
+  "notices_no_data": "ℹ️ No recent notices.",
+  "summary_title": "📊 *Quick Summary*",
+    "attendance_label": "Attendance",
+    "fees_label": "Fees",
+    "recent_marks_label": "Recent Marks",
+    "summary_footer": "Type *menu* to explore more or *switch* to change student.",
+    "summary_encourage_excellent": "🌟 Great going!",
+    "summary_encourage_good": "🙂 Keep it up!",
+    "summary_encourage_improve": "💡 Let’s aim higher!"
+
+  
+}

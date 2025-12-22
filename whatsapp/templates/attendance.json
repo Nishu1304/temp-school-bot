@@ -1,0 +1,16 @@
+{
+  "name": "attendance",
+  "language": "en",
+  "header": {
+    "type": "text",
+    "text": "Attendance"
+  },
+  "body": {
+    "variables": {
+      "1": "Name",
+      "2": "Date",
+      "3": "Status"
+    }
+  },
+  "buttons": []
+}
