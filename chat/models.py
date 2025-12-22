@@ -2,7 +2,7 @@ from django.db import models
 import json
 
 from django.db import models
-from django.contrib.postgres.fields import ArrayField  # if using Postgres
+
 import json
 
 class ChatSession(models.Model):
