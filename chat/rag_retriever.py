@@ -6,7 +6,7 @@ import logging
 from typing import List
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+
 import faiss
 
 from django.conf import settings
@@ -32,6 +32,10 @@ def _ensure_dirs():
 
 
 def _get_embedder():
+    try:
+        from sentence_transformers import SentenceTransformer
+    except Exception:
+        return ""
     global _embedder
     if _embedder is None:
         logger.info("Loading embedding model: %s", EMBED_MODEL_NAME)
