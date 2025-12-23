@@ -13,3 +13,4 @@ sentence-transformers
 python-dotenv
 groq
 gunicorn
+faiss-cpu
